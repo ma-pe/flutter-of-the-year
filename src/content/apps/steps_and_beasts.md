@@ -8,11 +8,11 @@ What sets Steps & Beasts apart is its blend of playful design, pixel-perfect ani
 Built solo, designed with love, and crafted to bring joy to walking – Steps & Beasts shows what’s possible when Flutter meets imagination."
 dateLaunched: "2024-10-01"
 images:
-  - "../../assets/apps/steps---beasts-1.png"
-  - "../../assets/apps/steps---beasts-2.png"
-  - "../../assets/apps/steps---beasts-3.png"
-  - "../../assets/apps/steps---beasts-4.png"
-  - "../../assets/apps/steps---beasts-5.png"
+  - "../../assets/apps/steps---beasts-1.webp"
+  - "../../assets/apps/steps---beasts-2.webp"
+  - "../../assets/apps/steps---beasts-3.webp"
+  - "../../assets/apps/steps---beasts-4.webp"
+  - "../../assets/apps/steps---beasts-5.webp"
 platforms:
   - name: "iOS"
     url: "https://apps.apple.com/app/id6670788226"
